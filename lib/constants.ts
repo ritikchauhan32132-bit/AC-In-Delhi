@@ -1,0 +1,9 @@
+export const ADMIN_EMAIL = 'acwallah95@gmail.com';
+export const ADMIN_USERNAME = 'ritikchauhan32132';
+export const ADMIN_PASSWORD = 'ritik@841409';
+export const SUPPORT_EMAIL = 'acwallah95@gmail.com';
+export const WHATSAPP_NUMBER = '917814410991';
+export const PHONE_NUMBER = '7814410991';
+export const DWARKA_MOR = { lat: 28.6199, lng: 77.0318 };
+export const SERVICE_RADIUS_KM = 10;
+export const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '';
